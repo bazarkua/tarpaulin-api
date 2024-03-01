@@ -1,5 +1,5 @@
 # Tarpaulin RESTful API
-
+![Tarpaulin API Logo](/images/logo.png)
 Welcome to the Tarpaulin project repository! As the team lead, I steered a group of three skilled software engineers in developing a RESTful API for Tarpaulin, a nimble course management tool designed as an alternative to Canvas.
 
 ## Project Leadership Role
