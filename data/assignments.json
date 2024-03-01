@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Assignment 1",
+    "points": 100,
+    "due": "2022-02-15",
+    "courseId": "648245a06d7c77309bacad45",
+    "submissions": ["1", "2", "3", "4"]
+  },
+  {
+    "title": "Assignment 2",
+    "points": 80,
+    "due": "2022-03-01",
+    "courseId": "648245a06d7c77309bacad45",
+    "submissions": ["5", "6", "7", "8"]
+  },
+  {
+    "title": "Essay",
+    "points": 90,
+    "due": "2022-09-30",
+    "courseId": "648245a06d7c77309bacad46",
+    "submissions": []
+  },
+  {
+    "title": "Problem Set 1",
+    "points": 100,
+    "due": "2022-07-15",
+    "courseId": "648245a06d7c77309bacad47",
+    "submissions": ["9", "10", "11"]
+  },
+  {
+    "title": "Midterm Exam",
+    "points": 150,
+    "due": "2023-04-01",
+    "courseId": "648245a06d7c77309bacad48",
+    "submissions": []
+  },
+  {
+    "title": "Research Paper",
+    "points": 120,
+    "due": "2023-11-30",
+    "courseId": "648245a06d7c77309bacad49",
+    "submissions": []
+  },
+  {
+    "title": "Project Proposal",
+    "points": 50,
+    "due": "2023-06-30",
+    "courseId": "648245a06d7c77309bacad4a",
+    "submissions": ["12"]
+  },
+  {
+    "title": "Lab Report",
+    "points": 75,
+    "due": "2024-03-15",
+    "courseId": "648245a06d7c77309bacad4b",
+    "submissions": []
+  },
+  {
+    "title": "Assignment 3",
+    "points": 100,
+    "due": "2024-09-30",
+    "courseId": "648245a06d7c77309bacad4c",
+    "submissions": ["13", "14", "15"]
+  },
+  {
+    "title": "Quiz 1",
+    "points": 50,
+    "due": "2026-02-15",
+    "courseId": "648245a06d7c77309bacad4d",
+    "submissions": []
+  },
+  {
+    "title": "Assignment 1",
+    "points": 100,
+    "due": "2026-01-31",
+    "courseId": "648245a06d7c77309bacad4e",
+    "submissions": ["16", "17"]
+  },
+  {
+    "title": "Lab Exercise",
+    "points": 80,
+    "due": "2026-03-15",
+    "courseId": "648245a06d7c77309bacad4f",
+    "submissions": []
+  }
+]

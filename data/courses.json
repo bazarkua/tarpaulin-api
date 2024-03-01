@@ -1,0 +1,79 @@
+[
+  {
+    "subject": "CS",
+    "number": "493",
+    "title": "Cloud Application Development",
+    "term": "sp22",
+    "instructorId": 123
+  },
+  {
+    "subject": "ENG",
+    "number": "205",
+    "title": "Introduction to Creative Writing",
+    "term": "fa22",
+    "instructorId": 456
+  },
+  {
+    "subject": "MATH",
+    "number": "101",
+    "title": "Calculus I",
+    "term": "su22",
+    "instructorId": 789
+  },
+  {
+    "subject": "PHYS",
+    "number": "201",
+    "title": "Introduction to Physics",
+    "term": "sp23",
+    "instructorId": 234
+  },
+  {
+    "subject": "HIST",
+    "number": "301",
+    "title": "World History",
+    "term": "fa23",
+    "instructorId": 567
+  },
+  {
+    "subject": "ART",
+    "number": "202",
+    "title": "Digital Art",
+    "term": "su23",
+    "instructorId": 890
+  },
+  {
+    "subject": "CHEM",
+    "number": "102",
+    "title": "General Chemistry II",
+    "term": "sp24",
+    "instructorId": 345
+  },
+  {
+    "subject": "PSYCH",
+    "number": "201",
+    "title": "Introduction to Psychology",
+    "term": "fa24",
+    "instructorId": 678
+  },
+  {
+    "subject": "ECON",
+    "number": "301",
+    "title": "Microeconomics",
+    "term": "su24",
+    "instructorId": 901
+  },
+  {
+    "subject": "ECON",
+    "number": "201",
+    "title": "Principles of Macroeconomics",
+    "term": "fa26",
+    "instructorId": 789
+  },
+  {
+    "subject": "BIOL",
+    "number": "101",
+    "title": "Introduction to Biology",
+    "term": "sp26",
+    "instructorId": 210
+  }
+]

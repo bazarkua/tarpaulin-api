@@ -1,0 +1,38 @@
+[
+    {
+        "name":"admin",
+        "email":"noreply@github.com",
+        "password":"adminpass",
+        "role":"admin"
+    },
+    {
+        "name":"Adilbek Bazarkulov",
+        "email":"bazarkua@oregonstate.edu",
+        "password":"studentpass",
+        "role":"student"
+    },
+    {
+        "name":"Hao Truong",
+        "email":"truongh@oregonstate.edu",
+        "password":"studentpass",
+        "role":"student"
+    },
+    {
+        "name":"Tanya Bihari",
+        "email":"biharit@oregonstate.edu",
+        "password":"studentpass",
+        "role":"student"
+    },
+    {
+        "name":"Trevyn Exley",
+        "email":"exleyt@oregonstate.edu",
+        "password":"studentpass",
+        "role":"student"
+    },
+    {
+        "name":"Rob Hess",
+        "email":"hessro@oregonstate.edu",
+        "password":"instructorpass",
+        "role":"instructor"
+    }
+]

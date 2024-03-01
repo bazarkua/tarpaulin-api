@@ -1,0 +1,40 @@
+{
+  "name": "tarpaulin",
+  "version": "1.0.0",
+  "description": "A lightweight course management tool that’s an “alternative” to Canvas.  In particular, Tarpaulin allows users (instructors and students) to see information about the courses they’re teaching/taking.  It allows instructors to create assignments for their courses, and it allows students to submit solutions to those assignments.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-cs493-sp23/final-project-exleyt.git"
+  },
+  "author": "Tanya Bihari, Hao Truong, Adilbek Bazarkulov, Trevyn Exley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osu-cs493-sp23/final-project-exleyt/issues"
+  },
+  "homepage": "https://github.com/osu-cs493-sp23/final-project-exleyt#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.4.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.4",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.22",
+    "redis": "^4.6.7"
+  }
+}

@@ -1,0 +1,18 @@
+$ npm init
+$ docker run -d --name mongo-server -e MONGO_INITDB_ROOT_USERNAME=root -e MONGO_INITDB_ROOT_PASSWORD=pass -p "27017:27017" mongo
+
+$ npm install
+$ docker container start mongo-server
+$ docker exec -it mongo-server /bin/bash
+    # mongosh --username root --password pass --authenticationDatabase admin
+        > use tarpaulin
+        > db.createUser({user: "tarpaulin", pwd: "pass", roles:[{role: "readWrite", db: "tarpaulin"}]})
+$ node populateDb.js
+
+        > db.getCollectionNames()
+        > db.users.find()
+
+$ docker run -d --name redis-server -p 6379:6379 redis
+$ docker container start redis-server
+
+$ node server.js
