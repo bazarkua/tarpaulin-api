@@ -1,10 +1,10 @@
 # Tarpaulin RESTful API
-![Tarpaulin API Logo](/images/logo.png)
-Welcome to the Tarpaulin project repository! As the team lead, I steered a group of three skilled software engineers in developing a RESTful API for Tarpaulin, a nimble course management tool designed as an alternative to Canvas.
+
+Course management API inspired by Canvas Course Management System.
 
 ## Project Leadership Role
 
-My contributions were multifaceted, ensuring the project's success:
+My contributions:
 
 - **Task Organization:** Strategically organizing and delegating tasks to team members.
 - **Tech Integration:** Bridging Docker with Node.js for a seamless development environment.
@@ -13,8 +13,6 @@ My contributions were multifaceted, ensuring the project's success:
 - **HTTP Request Handling:** Designing and implementing a responsive API endpoint structure.
 
 ### Technologies and Tools
-
-Our project leveraged a robust stack:
 
 - **Languages:** Node.js, JavaScript
 - **Database:** MongoDB
